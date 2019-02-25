@@ -1,3 +1,1 @@
-function mult(a, b) {
-    a * b
-}
+const spencer = "Spencer";
